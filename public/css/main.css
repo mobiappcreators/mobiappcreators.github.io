@@ -26,6 +26,7 @@ li.d-flex > i.fa.fa-check-circle {
   padding-top: 3px;
 }
 
+.preview-image-small,
 .app-store-badge {
   width: 100%;
   max-width: 250px;
