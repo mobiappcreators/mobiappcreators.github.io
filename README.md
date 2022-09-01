@@ -1,4 +1,4 @@
-# Atalog Landing Page
+# SIP Calculator Page
 
 ![Preview](docs/atalog-site-preview.png)
 
