@@ -18,6 +18,10 @@ h6 {
   background: linear-gradient(to bottom right, #9311ff, #c177ff);
 }
 
+.bg-gradient-2 {
+  background: linear-gradient(to bottom right, #ffeda0, #ffa585);
+}
+
 .flex-1 {
   flex: 1;
 }
