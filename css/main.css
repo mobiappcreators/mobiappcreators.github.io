@@ -19,7 +19,7 @@ h6 {
 }
 
 .bg-gradient-2 {
-  background: linear-gradient(to bottom right, #f6d5f7, #fbe9d7);
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
 .flex-1 {
